@@ -1,0 +1,162 @@
+[
+  {
+    "id": "WT-001",
+    "title": "Заказ не попал в маршрутный лист",
+    "priority": "critical",
+    "status": "Resolved",
+    "resolution_time": "64 мин",
+    "sla_breached": "Да"
+  },
+  {
+    "id": "WT-002",
+    "title": "Остаток бутылей в системе отрицательный",
+    "priority": "high",
+    "status": "Resolved",
+    "resolution_time": "93 мин",
+    "sla_breached": "Нет"
+  },
+  {
+    "id": "WT-003",
+    "title": "Не распечатались этикетки партии",
+    "priority": "medium",
+    "status": "Resolved",
+    "resolution_time": "122 мин",
+    "sla_breached": "Нет"
+  },
+  {
+    "id": "WT-004",
+    "title": "Курьер не видит адрес доставки",
+    "priority": "low",
+    "status": "Resolved",
+    "resolution_time": "151 мин",
+    "sla_breached": "Нет"
+  },
+  {
+    "id": "WT-005",
+    "title": "Зависла синхронизация CRM и склада",
+    "priority": "medium",
+    "status": "In Progress",
+    "resolution_time": "—",
+    "sla_breached": "Нет"
+  },
+  {
+    "id": "WT-006",
+    "title": "Ошибка учёта возвратной тары",
+    "priority": "high",
+    "status": "Resolved",
+    "resolution_time": "209 мин",
+    "sla_breached": "Нет"
+  },
+  {
+    "id": "WT-007",
+    "title": "Неверная цена в счёте клиента",
+    "priority": "low",
+    "status": "Resolved",
+    "resolution_time": "238 мин",
+    "sla_breached": "Нет"
+  },
+  {
+    "id": "WT-008",
+    "title": "Не обновился статус оплаты",
+    "priority": "medium",
+    "status": "Resolved",
+    "resolution_time": "267 мин",
+    "sla_breached": "Нет"
+  },
+  {
+    "id": "WT-009",
+    "title": "Сбой терминала водителя",
+    "priority": "high",
+    "status": "Resolved",
+    "resolution_time": "296 мин",
+    "sla_breached": "Да"
+  },
+  {
+    "id": "WT-010",
+    "title": "Дублируется заказ на 19 литров",
+    "priority": "low",
+    "status": "In Progress",
+    "resolution_time": "—",
+    "sla_breached": "Нет"
+  },
+  {
+    "id": "WT-011",
+    "title": "Неверная дата розлива в партии",
+    "priority": "medium",
+    "status": "Resolved",
+    "resolution_time": "354 мин",
+    "sla_breached": "Нет"
+  },
+  {
+    "id": "WT-012",
+    "title": "Не работает сканер штрихкодов",
+    "priority": "low",
+    "status": "Resolved",
+    "resolution_time": "383 мин",
+    "sla_breached": "Нет"
+  },
+  {
+    "id": "WT-013",
+    "title": "Не формируется маршрут на утро",
+    "priority": "critical",
+    "status": "Resolved",
+    "resolution_time": "412 мин",
+    "sla_breached": "Да"
+  },
+  {
+    "id": "WT-014",
+    "title": "Расхождение факта и плана розлива",
+    "priority": "medium",
+    "status": "Resolved",
+    "resolution_time": "441 мин",
+    "sla_breached": "Нет"
+  },
+  {
+    "id": "WT-015",
+    "title": "Пропал документ о качестве партии",
+    "priority": "low",
+    "status": "In Progress",
+    "resolution_time": "—",
+    "sla_breached": "Нет"
+  },
+  {
+    "id": "WT-016",
+    "title": "Клиент не получил SMS о доставке",
+    "priority": "high",
+    "status": "Resolved",
+    "resolution_time": "499 мин",
+    "sla_breached": "Да"
+  },
+  {
+    "id": "WT-017",
+    "title": "Неверный остаток пустой тары",
+    "priority": "medium",
+    "status": "Resolved",
+    "resolution_time": "18 мин",
+    "sla_breached": "Нет"
+  },
+  {
+    "id": "WT-018",
+    "title": "Не проходит резервирование заказа",
+    "priority": "low",
+    "status": "Resolved",
+    "resolution_time": "47 мин",
+    "sla_breached": "Нет"
+  },
+  {
+    "id": "WT-019",
+    "title": "Не печатается накладная",
+    "priority": "medium",
+    "status": "Resolved",
+    "resolution_time": "76 мин",
+    "sla_breached": "Нет"
+  },
+  {
+    "id": "WT-020",
+    "title": "Ошибка передачи данных в бухгалтерию",
+    "priority": "low",
+    "status": "In Progress",
+    "resolution_time": "—",
+    "sla_breached": "Нет"
+  }
+]
